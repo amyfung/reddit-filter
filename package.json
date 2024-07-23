@@ -1,0 +1,13 @@
+{
+    "name": "reddit-post-filter",
+    "version": "1.0.0",
+    "description": "Chrome extension to filter out seen Reddit posts",
+    "scripts": {
+        "build": "tsc",
+        "watch": "tsc -w"
+    },
+    "devDependencies": {
+        "@types/chrome": "^0.0.237",
+        "typescript": "^5.0.4"
+    }
+}
